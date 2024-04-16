@@ -6,7 +6,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "predeploy": "ng build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
