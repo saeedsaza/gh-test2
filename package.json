@@ -7,7 +7,7 @@
     "start": "ng serve",
     "build": "ng build",
     "predeploy": "ng build",
-    "deploy": "gh-pages -d dist/gh-test2",
+    "deploy": "gh-pages -d build/gh-test2",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "serve:ssr:gh-test2": "node dist/gh-test2/server/server.mjs"
