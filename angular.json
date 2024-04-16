@@ -20,7 +20,6 @@
             "outputPath": "dist/gh-test2",
             "index": "src/index.html",
             "browser": "src/main.ts",
-            "baseHref": "https://saeedsaza.github.io/gh-test2",
             "polyfills": [
               "zone.js"
             ],
@@ -103,5 +102,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "3e63b521-96b7-45e3-b100-0767ddbb0f42"
   }
 }
