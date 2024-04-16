@@ -1,7 +1,7 @@
 {
   "name": "gh-test2",
   "version": "0.0.0",
-  "homepage": "https://saeedsaza.github.io/gh-test2",
+  "homepage": "https://saeedsaza.github.io/gh-test2/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
