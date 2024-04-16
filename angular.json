@@ -20,6 +20,7 @@
             "outputPath": "dist/gh-test2",
             "index": "src/index.html",
             "browser": "src/main.ts",
+            "baseHref": "https://saeedsaza.github.io/gh-test2",
             "polyfills": [
               "zone.js"
             ],
